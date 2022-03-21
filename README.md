@@ -20,6 +20,8 @@
 
 ⚡ Subjects that i've learned in the course are : Python , Selenium-Flask , Jenkins , Git , Linux , Vim , Docker , K8s , Helm , Monitoring with Grafana , Ansible , Terraform .
 
+⚡Final Project In the course we had to build a Python game in the final game I will run a FLASK server with the player's score.
+Take the game and the FLASK server and turn it into a container, upload it to GitHub and then run the app through the JENKINS server located at AWS.
 🌱 In my free time, Exploring and Self-Learning DevOps CI / CD knowledge and tools to become better and better each day .
 
  ⚡ I’m currently writing automations with Powershell , Batch , Python integrated via GPO
