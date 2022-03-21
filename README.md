@@ -18,6 +18,8 @@
 
 ⚡ I’m just finish DevOps Course at DevOps Experts Academy
 
+⚡ Subjects that i've learned in the course are : Python , Selenium-Flask , Jenkins , Git , Linux , Vim , Docker , K8s , Helm , Monitoring with Grafana , Ansible , Terraform .
+
 🌱 In my free time, Exploring and Self-Learning DevOps CI / CD knowledge and tools to become better and better each day .
 
  ⚡ I’m currently writing automations with Powershell , Batch , Python integrated via GPO
