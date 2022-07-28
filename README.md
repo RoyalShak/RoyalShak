@@ -16,7 +16,7 @@
 
 🔭 I’m currently working as Senior System Administrator 
 
-⚡ I’m just finish DevOps Course at DevOps Experts Academy
+⚡ Just finished DevOps Course at DevOps Experts Academy
 
 ⚡ Subjects that i've learned in the course are : Python , Selenium-Flask , Jenkins , Git , Linux , Vim , Docker , K8s , Helm , Monitoring with Grafana , Ansible , Terraform .
 
